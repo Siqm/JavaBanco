@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.spookybank.banco.especial"},{"l":"br.com.spookybank.banco.modelo"},{"l":"br.com.spookybank.banco.teste"}];updateSearchResults();
